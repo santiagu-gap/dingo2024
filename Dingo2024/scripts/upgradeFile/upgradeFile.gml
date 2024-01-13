@@ -16,13 +16,23 @@ function makeUpgrade(name, mods){
 
 global.upgrade = [
 {
-	name: "fairy toothpaste",
+	name: "fairy toothpaste", img : sBullet,
 	mods: [
 		{
 			stat: "atkSpd", operation: eMod.MUL, value: 1.2
 		},
 		{
 			stat: "dmg", operation: eMod.SUB, value: 2
+		}
+	]
+},{
+	name: "hearty prowess", img : sBullet,
+	mods: [
+		{
+			stat: "hpMax", operation: eMod.ADD, value: 50
+		},
+		{
+			stat: "stamina", operation: eMod.SUB, value: 5
 		}
 	]
 }

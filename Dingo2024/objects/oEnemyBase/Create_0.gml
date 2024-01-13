@@ -1,5 +1,6 @@
-for(var i = 0; i < array_length(bullets); i++){
-	alarm[i] = global.itemType[ bullets[i] ].cooldown
-}
+tx = x
+ty = y
 
 bulletindex = 0
+
+state = 0

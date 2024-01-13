@@ -47,8 +47,8 @@ face = round(aimDir/90)
 if face == 4 { face = 0; }
 
     //Setting the sprites
-    image_index = 0 // to put in the animate option when actual sprites in
-    sprite_index = sprite[face]
+if _spd==0 {  image_index = 0 }// to put in the animate option when actual spritess in
+sprite_index = sprite[face]
 	
 //Bullet shooting
 if mouse_check_button(mb_left) and attackCooldown<0{
