@@ -8,6 +8,6 @@ enum eElement{
 
 global.itemType = {
 	name: "Angry Bullet", spd: 2, dmg: 3, amnt: 1, angleStart: -1, angleOff: 0, img: sBullet,
-	type: eBType.HOMING, ele: eElement.NOR, 
+	type: eBType.HOMING, ele: eElement.NOR, life: 120
 }
 
