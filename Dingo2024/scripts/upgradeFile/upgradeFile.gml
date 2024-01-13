@@ -6,7 +6,16 @@ enum eMod{
 
 draw_set_font(fnGame)
 
-global.upgrade = [{
+function makeMod(stat, type, value){
+	return { stat, operation: type, value }
+}
+
+function makeUpgrade(name, mods){
+	return { name, mods }
+}
+
+global.upgrade = [
+{
 	name: "fairy toothpaste",
 	mods: [
 		{
@@ -16,7 +25,8 @@ global.upgrade = [{
 			stat: "dmg", operation: eMod.SUB, value: 2
 		}
 	]
-}]
+}
+]
 
 function applyMod(statName, type, amnt){
 	var currentStat = variable_instance_get(oPlayer, statName)
