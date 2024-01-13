@@ -30,5 +30,5 @@
     "path": "sprites/sPlater/sPlater.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

@@ -2,275 +2,415 @@ You are using YYP Maker v1.1.5, released in 14-08-2022
 
 
 
-[13-01-2024 13:53:46] Initialized GameMaker Project: Dingo2024.yyp
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/animcurves
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/extensions
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/fonts
-[13-01-2024 13:53:46] Checking fnGame
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/fonts/fnGame
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/fonts/fnGame
-[13-01-2024 13:53:46] Checking fnGame.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/fonts/fnGame/fnGame.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/fonts/fnGame/fnGame.yy
-[13-01-2024 13:53:46] Par: "folders/Fonts" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/fonts/fnGame/fnGame.yy"
-[13-01-2024 13:53:46] Found Font: fnGame
-[13-01-2024 13:53:46] Checking fnGame.png
-[13-01-2024 13:53:46] Checking fnGame.old.yy
-[13-01-2024 13:53:46] Trash file: fnGame.old.yy, will be moved to ___yyp_maker_trash
-[13-01-2024 13:53:46] Checking fnGame.old.png
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/notes
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects
-[13-01-2024 13:53:46] Checking oWall
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oWall
-[13-01-2024 13:53:46] Checking oUpgradeOrder
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeOrder
-[13-01-2024 13:53:46] Checking oUpgradeblock
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeblock
-[13-01-2024 13:53:46] Checking oPlayer
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oPlayer
-[13-01-2024 13:53:46] Checking oBullet
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oBullet
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oBullet
-[13-01-2024 13:53:46] Checking Step_0.gml
-[13-01-2024 13:53:46] Checking oBullet.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oBullet/oBullet.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oBullet/oBullet.yy
-[13-01-2024 13:53:46] Par: "folders/Objects" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oBullet/oBullet.yy"
-[13-01-2024 13:53:46] Found Object: oBullet
-[13-01-2024 13:53:46] Checking Create_0.gml
-[13-01-2024 13:53:46] Checking Alarm_0.gml
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oPlayer
-[13-01-2024 13:53:46] Checking Step_0.gml
-[13-01-2024 13:53:46] Checking oPlayer.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oPlayer/oPlayer.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oPlayer/oPlayer.yy
-[13-01-2024 13:53:46] Par: "folders/Objects" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oPlayer/oPlayer.yy"
-[13-01-2024 13:53:46] Found Object: oPlayer
-[13-01-2024 13:53:46] Checking Create_0.gml
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeblock
-[13-01-2024 13:53:46] Checking oUpgradeblock.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeblock/oUpgradeblock.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeblock/oUpgradeblock.yy
-[13-01-2024 13:53:46] Par: "folders/Objects/Upgrade" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeblock/oUpgradeblock.yy"
-[13-01-2024 13:53:46] Found Object: oUpgradeblock
-[13-01-2024 13:53:46] Checking Gesture_4.gml
-[13-01-2024 13:53:46] Checking Gesture_3.gml
-[13-01-2024 13:53:46] Checking Draw_0.gml
-[13-01-2024 13:53:46] Checking Create_0.gml
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeOrder
-[13-01-2024 13:53:46] Checking oUpgradeOrder.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeOrder/oUpgradeOrder.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeOrder/oUpgradeOrder.yy
-[13-01-2024 13:53:46] Par: "folders/Objects/Upgrade" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeOrder/oUpgradeOrder.yy"
-[13-01-2024 13:53:46] Found Object: oUpgradeOrder
-[13-01-2024 13:53:46] Checking Gesture_1.gml
-[13-01-2024 13:53:46] Checking Create_0.gml
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oWall
-[13-01-2024 13:53:46] Checking oWall.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oWall/oWall.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oWall/oWall.yy
-[13-01-2024 13:53:46] Par: "folders/Objects" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oWall/oWall.yy"
-[13-01-2024 13:53:46] Found Object: oWall
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options
-[13-01-2024 13:53:46] Checking windows
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/windows
-[13-01-2024 13:53:46] Checking tvos
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/tvos
-[13-01-2024 13:53:46] Checking operagx
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/operagx
-[13-01-2024 13:53:46] Checking main
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/main
-[13-01-2024 13:53:46] Checking mac
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/mac
-[13-01-2024 13:53:46] Checking linux
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/linux
-[13-01-2024 13:53:46] Checking ios
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/ios
-[13-01-2024 13:53:46] Checking html5
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/html5
-[13-01-2024 13:53:46] Checking android
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/android
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/android
-[13-01-2024 13:53:46] Checking options_android.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/android/options_android.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/android/options_android.yy
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/html5
-[13-01-2024 13:53:46] Checking options_html5.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/html5/options_html5.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/html5/options_html5.yy
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/ios
-[13-01-2024 13:53:46] Checking options_ios.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/ios/options_ios.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/ios/options_ios.yy
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/linux
-[13-01-2024 13:53:46] Checking options_linux.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/linux/options_linux.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/linux/options_linux.yy
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/mac
-[13-01-2024 13:53:46] Checking options_mac.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/mac/options_mac.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/mac/options_mac.yy
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/main
-[13-01-2024 13:53:46] Checking options_main.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/main/options_main.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/main/options_main.yy
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/operagx
-[13-01-2024 13:53:46] Checking options_operagx.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/operagx/options_operagx.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/operagx/options_operagx.yy
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/tvos
-[13-01-2024 13:53:46] Checking options_tvos.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/tvos/options_tvos.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/tvos/options_tvos.yy
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/windows
-[13-01-2024 13:53:46] Checking options_windows.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/windows/options_windows.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/windows/options_windows.yy
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/paths
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/rooms
-[13-01-2024 13:53:46] Checking rmMainMap
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/rooms/rmMainMap
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/rooms/rmMainMap
-[13-01-2024 13:53:46] Checking rmMainMap.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/rooms/rmMainMap/rmMainMap.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/rooms/rmMainMap/rmMainMap.yy
-[13-01-2024 13:53:46] Par: "folders/Rooms" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/rooms/rmMainMap/rmMainMap.yy"
-[13-01-2024 13:53:46] Found Room: rmMainMap
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts
-[13-01-2024 13:53:46] Checking upgradeFile
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/upgradeFile
-[13-01-2024 13:53:46] Checking itemFile
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/itemFile
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/itemFile
-[13-01-2024 13:53:46] Checking itemFile.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/itemFile/itemFile.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/itemFile/itemFile.yy
-[13-01-2024 13:53:46] Par: "folders/Scripts" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/itemFile/itemFile.yy"
-[13-01-2024 13:53:46] Found Script: itemFile
-[13-01-2024 13:53:46] Checking itemFile.gml
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/upgradeFile
-[13-01-2024 13:53:46] Checking upgradeFile.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/upgradeFile/upgradeFile.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/upgradeFile/upgradeFile.yy
-[13-01-2024 13:53:46] Par: "folders/Scripts" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/upgradeFile/upgradeFile.yy"
-[13-01-2024 13:53:46] Found Script: upgradeFile
-[13-01-2024 13:53:46] Checking upgradeFile.gml
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sequences
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/shaders
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sounds
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites
-[13-01-2024 13:53:46] Checking sUpgradeBlock
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sUpgradeBlock
-[13-01-2024 13:53:46] Checking sTileset
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sTileset
-[13-01-2024 13:53:46] Checking sPlater
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sPlater
-[13-01-2024 13:53:46] Checking sBullet
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sBullet
-[13-01-2024 13:53:46] Checking cat
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/cat
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/cat
-[13-01-2024 13:53:46] Checking layers
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/cat/layers
-[13-01-2024 13:53:46] Checking cat.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/cat/cat.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/cat/cat.yy
-[13-01-2024 13:53:46] Par: "folders/Sprites" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/cat/cat.yy"
-[13-01-2024 13:53:46] Found Sprite: cat
-[13-01-2024 13:53:46] Checking 8399b4ed-1d7c-49f3-93cb-a80be565decd.png
-[13-01-2024 13:53:46] Checking 80a18a9b-7132-49f3-bd01-600c18b9843c.png
-[13-01-2024 13:53:46] Checking 5c79ece5-b415-451e-9431-bdaa248bfc84.png
-[13-01-2024 13:53:46] Checking 54bd45b2-106f-431a-b774-660b041a77f2.png
-[13-01-2024 13:53:46] Checking 00ff78dc-a78c-4e85-b617-15bb7d138ed2.png
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/cat/layers
-[13-01-2024 13:53:46] Checking 8399b4ed-1d7c-49f3-93cb-a80be565decd
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/cat/layers/8399b4ed-1d7c-49f3-93cb-a80be565decd
-[13-01-2024 13:53:46] Checking 80a18a9b-7132-49f3-bd01-600c18b9843c
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/cat/layers/80a18a9b-7132-49f3-bd01-600c18b9843c
-[13-01-2024 13:53:46] Checking 5c79ece5-b415-451e-9431-bdaa248bfc84
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/cat/layers/5c79ece5-b415-451e-9431-bdaa248bfc84
-[13-01-2024 13:53:46] Checking 54bd45b2-106f-431a-b774-660b041a77f2
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/cat/layers/54bd45b2-106f-431a-b774-660b041a77f2
-[13-01-2024 13:53:46] Checking 00ff78dc-a78c-4e85-b617-15bb7d138ed2
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/cat/layers/00ff78dc-a78c-4e85-b617-15bb7d138ed2
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/cat/layers/00ff78dc-a78c-4e85-b617-15bb7d138ed2
-[13-01-2024 13:53:46] Checking 9a50f81e-0568-4380-a049-3193363ef250.png
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/cat/layers/54bd45b2-106f-431a-b774-660b041a77f2
-[13-01-2024 13:53:46] Checking 9a50f81e-0568-4380-a049-3193363ef250.png
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/cat/layers/5c79ece5-b415-451e-9431-bdaa248bfc84
-[13-01-2024 13:53:46] Checking 9a50f81e-0568-4380-a049-3193363ef250.png
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/cat/layers/80a18a9b-7132-49f3-bd01-600c18b9843c
-[13-01-2024 13:53:46] Checking 9a50f81e-0568-4380-a049-3193363ef250.png
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/cat/layers/8399b4ed-1d7c-49f3-93cb-a80be565decd
-[13-01-2024 13:53:46] Checking 9a50f81e-0568-4380-a049-3193363ef250.png
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sBullet
-[13-01-2024 13:53:46] Checking sBullet.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sBullet/sBullet.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sBullet/sBullet.yy
-[13-01-2024 13:53:46] Par: "folders/Sprites" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sBullet/sBullet.yy"
-[13-01-2024 13:53:46] Found Sprite: sBullet
-[13-01-2024 13:53:46] Checking layers
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sBullet/layers
-[13-01-2024 13:53:46] Checking 9c1432e2-8d61-4481-96a2-691f7a67af71.png
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sBullet/layers
-[13-01-2024 13:53:46] Checking 9c1432e2-8d61-4481-96a2-691f7a67af71
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sBullet/layers/9c1432e2-8d61-4481-96a2-691f7a67af71
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sBullet/layers/9c1432e2-8d61-4481-96a2-691f7a67af71
-[13-01-2024 13:53:46] Checking c020b038-db70-465b-aeae-cc9a412b8869.png
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sPlater
-[13-01-2024 13:53:46] Checking sPlater.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sPlater/sPlater.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sPlater/sPlater.yy
-[13-01-2024 13:53:46] Par: "folders/Rooms" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sPlater/sPlater.yy"
-[13-01-2024 13:53:46] Found Sprite: sPlater
-[13-01-2024 13:53:46] Checking layers
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sPlater/layers
-[13-01-2024 13:53:46] Checking a72285ad-e69d-432a-9de1-bc8a629be6b2.png
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sPlater/layers
-[13-01-2024 13:53:46] Checking a72285ad-e69d-432a-9de1-bc8a629be6b2
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sPlater/layers/a72285ad-e69d-432a-9de1-bc8a629be6b2
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sPlater/layers/a72285ad-e69d-432a-9de1-bc8a629be6b2
-[13-01-2024 13:53:46] Checking 1f834b26-d9b0-4250-9b12-185988ea72e4.png
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sTileset
-[13-01-2024 13:53:46] Checking sTileset.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sTileset/sTileset.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sTileset/sTileset.yy
-[13-01-2024 13:53:46] Par: "folders/Sprites" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sTileset/sTileset.yy"
-[13-01-2024 13:53:46] Found Sprite: sTileset
-[13-01-2024 13:53:46] Checking layers
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sTileset/layers
-[13-01-2024 13:53:46] Checking 478b673b-b98a-492e-9e50-c8b144ec4dee.png
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sTileset/layers
-[13-01-2024 13:53:46] Checking 478b673b-b98a-492e-9e50-c8b144ec4dee
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sTileset/layers/478b673b-b98a-492e-9e50-c8b144ec4dee
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sTileset/layers/478b673b-b98a-492e-9e50-c8b144ec4dee
-[13-01-2024 13:53:46] Checking 13070d9c-ace4-42f5-b2cd-15817beb43df.png
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sUpgradeBlock
-[13-01-2024 13:53:46] Checking sUpgradeBlock.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sUpgradeBlock/sUpgradeBlock.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sUpgradeBlock/sUpgradeBlock.yy
-[13-01-2024 13:53:46] Par: "folders/Sprites" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sUpgradeBlock/sUpgradeBlock.yy"
-[13-01-2024 13:53:46] Found Sprite: sUpgradeBlock
-[13-01-2024 13:53:46] Checking layers
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sUpgradeBlock/layers
-[13-01-2024 13:53:46] Checking 9e21329a-d84f-476b-aac7-bbd9473af8f7.png
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sUpgradeBlock/layers
-[13-01-2024 13:53:46] Checking 9e21329a-d84f-476b-aac7-bbd9473af8f7
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sUpgradeBlock/layers/9e21329a-d84f-476b-aac7-bbd9473af8f7
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sUpgradeBlock/layers/9e21329a-d84f-476b-aac7-bbd9473af8f7
-[13-01-2024 13:53:46] Checking c2d1da9b-f8be-4c8a-80f4-e8e4c32eebdd.png
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/tilesets
-[13-01-2024 13:53:46] Checking tsWorld
-[13-01-2024 13:53:46] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/tilesets/tsWorld
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/tilesets/tsWorld
-[13-01-2024 13:53:46] Checking tsWorld.yy
-[13-01-2024 13:53:46] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/tilesets/tsWorld/tsWorld.yy
-[13-01-2024 13:53:46] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/tilesets/tsWorld/tsWorld.yy
-[13-01-2024 13:53:46] Par: "folders/Tile Sets" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/tilesets/tsWorld/tsWorld.yy"
-[13-01-2024 13:53:46] Found TileSet: tsWorld
-[13-01-2024 13:53:46] Checking output_tileset.png
-[13-01-2024 13:53:46] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/timelines
-[13-01-2024 13:53:46] Moving files to trash...
-[13-01-2024 13:53:46] Files yeeted successfully!
-[13-01-2024 13:53:46] Generating YYP...
-[13-01-2024 13:53:46] Dingo2024.yyp created successfully!
+[13-01-2024 15:48:29] Initialized GameMaker Project: Dingo2024.yyp
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/animcurves
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/extensions
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/fonts
+[13-01-2024 15:48:29] Checking fnGame
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/fonts/fnGame
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/fonts/fnGame
+[13-01-2024 15:48:29] Checking fnGame.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/fonts/fnGame/fnGame.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/fonts/fnGame/fnGame.yy
+[13-01-2024 15:48:29] Par: "folders/Fonts" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/fonts/fnGame/fnGame.yy"
+[13-01-2024 15:48:29] Found Font: fnGame
+[13-01-2024 15:48:29] Checking fnGame.png
+[13-01-2024 15:48:29] Checking fnGame.old.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/notes
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects
+[13-01-2024 15:48:29] Checking oWall
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oWall
+[13-01-2024 15:48:29] Checking oUpgradeOrder
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeOrder
+[13-01-2024 15:48:29] Checking oUpgradeblock
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeblock
+[13-01-2024 15:48:29] Checking oRat
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oRat
+[13-01-2024 15:48:29] Checking oPlayer
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oPlayer
+[13-01-2024 15:48:29] Checking oEnemyBase
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oEnemyBase
+[13-01-2024 15:48:29] Checking oBullet
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oBullet
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oBullet
+[13-01-2024 15:48:29] Checking Step_0.gml
+[13-01-2024 15:48:29] Checking oBullet.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oBullet/oBullet.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oBullet/oBullet.yy
+[13-01-2024 15:48:29] Par: "folders/Objects" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oBullet/oBullet.yy"
+[13-01-2024 15:48:29] Found Object: oBullet
+[13-01-2024 15:48:29] Checking Create_0.gml
+[13-01-2024 15:48:29] Checking Collision_oWall.gml
+[13-01-2024 15:48:29] Checking Alarm_0.gml
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oEnemyBase
+[13-01-2024 15:48:29] Checking Other_10.gml
+[13-01-2024 15:48:29] Checking oEnemyBase.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oEnemyBase/oEnemyBase.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oEnemyBase/oEnemyBase.yy
+[13-01-2024 15:48:29] Par: "folders/Objects" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oEnemyBase/oEnemyBase.yy"
+[13-01-2024 15:48:29] Found Object: oEnemyBase
+[13-01-2024 15:48:29] Checking Create_0.gml
+[13-01-2024 15:48:29] Checking Alarm_2.gml
+[13-01-2024 15:48:29] Checking Alarm_1.gml
+[13-01-2024 15:48:29] Checking Alarm_0.gml
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oPlayer
+[13-01-2024 15:48:29] Checking Step_0.gml
+[13-01-2024 15:48:29] Checking oPlayer.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oPlayer/oPlayer.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oPlayer/oPlayer.yy
+[13-01-2024 15:48:29] Par: "folders/Objects" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oPlayer/oPlayer.yy"
+[13-01-2024 15:48:29] Found Object: oPlayer
+[13-01-2024 15:48:29] Checking Draw_64.gml
+[13-01-2024 15:48:29] Checking Draw_0.gml
+[13-01-2024 15:48:29] Checking Create_0.gml
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oRat
+[13-01-2024 15:48:29] Checking Step_0.gml
+[13-01-2024 15:48:29] Checking oRat.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oRat/oRat.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oRat/oRat.yy
+[13-01-2024 15:48:29] Par: "folders/Objects" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oRat/oRat.yy"
+[13-01-2024 15:48:29] Found Object: oRat
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeblock
+[13-01-2024 15:48:29] Checking oUpgradeblock.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeblock/oUpgradeblock.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeblock/oUpgradeblock.yy
+[13-01-2024 15:48:29] Par: "folders/Objects/Upgrade" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeblock/oUpgradeblock.yy"
+[13-01-2024 15:48:29] Found Object: oUpgradeblock
+[13-01-2024 15:48:29] Checking Gesture_4.gml
+[13-01-2024 15:48:29] Checking Gesture_3.gml
+[13-01-2024 15:48:29] Checking Draw_0.gml
+[13-01-2024 15:48:29] Checking Create_0.gml
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeOrder
+[13-01-2024 15:48:29] Checking oUpgradeOrder.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeOrder/oUpgradeOrder.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeOrder/oUpgradeOrder.yy
+[13-01-2024 15:48:29] Par: "folders/Objects/Upgrade" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oUpgradeOrder/oUpgradeOrder.yy"
+[13-01-2024 15:48:29] Found Object: oUpgradeOrder
+[13-01-2024 15:48:29] Checking Gesture_1.gml
+[13-01-2024 15:48:29] Checking Create_0.gml
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oWall
+[13-01-2024 15:48:29] Checking oWall.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oWall/oWall.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oWall/oWall.yy
+[13-01-2024 15:48:29] Par: "folders/Objects" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/objects/oWall/oWall.yy"
+[13-01-2024 15:48:29] Found Object: oWall
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options
+[13-01-2024 15:48:29] Checking windows
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/windows
+[13-01-2024 15:48:29] Checking tvos
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/tvos
+[13-01-2024 15:48:29] Checking operagx
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/operagx
+[13-01-2024 15:48:29] Checking main
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/main
+[13-01-2024 15:48:29] Checking mac
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/mac
+[13-01-2024 15:48:29] Checking linux
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/linux
+[13-01-2024 15:48:29] Checking ios
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/ios
+[13-01-2024 15:48:29] Checking html5
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/html5
+[13-01-2024 15:48:29] Checking android
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/android
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/android
+[13-01-2024 15:48:29] Checking options_android.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/android/options_android.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/android/options_android.yy
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/html5
+[13-01-2024 15:48:29] Checking options_html5.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/html5/options_html5.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/html5/options_html5.yy
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/ios
+[13-01-2024 15:48:29] Checking options_ios.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/ios/options_ios.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/ios/options_ios.yy
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/linux
+[13-01-2024 15:48:29] Checking options_linux.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/linux/options_linux.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/linux/options_linux.yy
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/mac
+[13-01-2024 15:48:29] Checking options_mac.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/mac/options_mac.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/mac/options_mac.yy
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/main
+[13-01-2024 15:48:29] Checking options_main.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/main/options_main.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/main/options_main.yy
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/operagx
+[13-01-2024 15:48:29] Checking options_operagx.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/operagx/options_operagx.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/operagx/options_operagx.yy
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/tvos
+[13-01-2024 15:48:29] Checking options_tvos.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/tvos/options_tvos.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/tvos/options_tvos.yy
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/windows
+[13-01-2024 15:48:29] Checking options_windows.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/windows/options_windows.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/options/windows/options_windows.yy
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/paths
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/rooms
+[13-01-2024 15:48:29] Checking Tutorial
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/rooms/Tutorial
+[13-01-2024 15:48:29] Checking rmMainMap
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/rooms/rmMainMap
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/rooms/rmMainMap
+[13-01-2024 15:48:29] Checking rmMainMap.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/rooms/rmMainMap/rmMainMap.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/rooms/rmMainMap/rmMainMap.yy
+[13-01-2024 15:48:29] Par: "folders/Rooms" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/rooms/rmMainMap/rmMainMap.yy"
+[13-01-2024 15:48:29] Found Room: rmMainMap
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/rooms/Tutorial
+[13-01-2024 15:48:29] Checking Tutorial.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/rooms/Tutorial/Tutorial.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/rooms/Tutorial/Tutorial.yy
+[13-01-2024 15:48:29] Par: "folders/Rooms" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/rooms/Tutorial/Tutorial.yy"
+[13-01-2024 15:48:29] Found Room: Tutorial
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts
+[13-01-2024 15:48:29] Checking upgradeFile
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/upgradeFile
+[13-01-2024 15:48:29] Checking shootBullet
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/shootBullet
+[13-01-2024 15:48:29] Checking itemFile
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/itemFile
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/itemFile
+[13-01-2024 15:48:29] Checking itemFile.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/itemFile/itemFile.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/itemFile/itemFile.yy
+[13-01-2024 15:48:29] Par: "folders/Scripts" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/itemFile/itemFile.yy"
+[13-01-2024 15:48:29] Found Script: itemFile
+[13-01-2024 15:48:29] Checking itemFile.gml
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/shootBullet
+[13-01-2024 15:48:29] Checking shootBullet.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/shootBullet/shootBullet.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/shootBullet/shootBullet.yy
+[13-01-2024 15:48:29] Par: "folders/Scripts" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/shootBullet/shootBullet.yy"
+[13-01-2024 15:48:29] Found Script: shootBullet
+[13-01-2024 15:48:29] Checking shootBullet.gml
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/upgradeFile
+[13-01-2024 15:48:29] Checking upgradeFile.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/upgradeFile/upgradeFile.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/upgradeFile/upgradeFile.yy
+[13-01-2024 15:48:29] Par: "folders/Scripts" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/scripts/upgradeFile/upgradeFile.yy"
+[13-01-2024 15:48:29] Found Script: upgradeFile
+[13-01-2024 15:48:29] Checking upgradeFile.gml
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sequences
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/shaders
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sounds
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites
+[13-01-2024 15:48:29] Checking sUpgradeBlock
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sUpgradeBlock
+[13-01-2024 15:48:29] Checking sTileset
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sTileset
+[13-01-2024 15:48:29] Checking sRat
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sRat
+[13-01-2024 15:48:29] Checking sPlater
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sPlater
+[13-01-2024 15:48:29] Checking sFly
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sFly
+[13-01-2024 15:48:29] Checking sCatUp
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatUp
+[13-01-2024 15:48:29] Checking sCatRight
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatRight
+[13-01-2024 15:48:29] Checking sCatLeft
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatLeft
+[13-01-2024 15:48:29] Checking sCatDown
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatDown
+[13-01-2024 15:48:29] Checking sBullet
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sBullet
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sBullet
+[13-01-2024 15:48:29] Checking sBullet.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sBullet/sBullet.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sBullet/sBullet.yy
+[13-01-2024 15:48:29] Par: "folders/Sprites" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sBullet/sBullet.yy"
+[13-01-2024 15:48:29] Found Sprite: sBullet
+[13-01-2024 15:48:29] Checking layers
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sBullet/layers
+[13-01-2024 15:48:29] Checking 9c1432e2-8d61-4481-96a2-691f7a67af71.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sBullet/layers
+[13-01-2024 15:48:29] Checking 9c1432e2-8d61-4481-96a2-691f7a67af71
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sBullet/layers/9c1432e2-8d61-4481-96a2-691f7a67af71
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sBullet/layers/9c1432e2-8d61-4481-96a2-691f7a67af71
+[13-01-2024 15:48:29] Checking c020b038-db70-465b-aeae-cc9a412b8869.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatDown
+[13-01-2024 15:48:29] Checking sCatDown.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatDown/sCatDown.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatDown/sCatDown.yy
+[13-01-2024 15:48:29] Par: "folders/Sprites" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatDown/sCatDown.yy"
+[13-01-2024 15:48:29] Found Sprite: sCatDown
+[13-01-2024 15:48:29] Checking layers
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatDown/layers
+[13-01-2024 15:48:29] Checking 54bd45b2-106f-431a-b774-660b041a77f2.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatDown/layers
+[13-01-2024 15:48:29] Checking 54bd45b2-106f-431a-b774-660b041a77f2
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatDown/layers/54bd45b2-106f-431a-b774-660b041a77f2
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatDown/layers/54bd45b2-106f-431a-b774-660b041a77f2
+[13-01-2024 15:48:29] Checking 9a50f81e-0568-4380-a049-3193363ef250.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatLeft
+[13-01-2024 15:48:29] Checking sCatLeft.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatLeft/sCatLeft.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatLeft/sCatLeft.yy
+[13-01-2024 15:48:29] Par: "folders/Sprites" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatLeft/sCatLeft.yy"
+[13-01-2024 15:48:29] Found Sprite: sCatLeft
+[13-01-2024 15:48:29] Checking layers
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatLeft/layers
+[13-01-2024 15:48:29] Checking 80a18a9b-7132-49f3-bd01-600c18b9843c.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatLeft/layers
+[13-01-2024 15:48:29] Checking 80a18a9b-7132-49f3-bd01-600c18b9843c
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatLeft/layers/80a18a9b-7132-49f3-bd01-600c18b9843c
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatLeft/layers/80a18a9b-7132-49f3-bd01-600c18b9843c
+[13-01-2024 15:48:29] Checking 9a50f81e-0568-4380-a049-3193363ef250.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatRight
+[13-01-2024 15:48:29] Checking sCatRight.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatRight/sCatRight.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatRight/sCatRight.yy
+[13-01-2024 15:48:29] Par: "folders/Sprites" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatRight/sCatRight.yy"
+[13-01-2024 15:48:29] Found Sprite: sCatRight
+[13-01-2024 15:48:29] Checking layers
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatRight/layers
+[13-01-2024 15:48:29] Checking 00ff78dc-a78c-4e85-b617-15bb7d138ed2.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatRight/layers
+[13-01-2024 15:48:29] Checking 00ff78dc-a78c-4e85-b617-15bb7d138ed2
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatRight/layers/00ff78dc-a78c-4e85-b617-15bb7d138ed2
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatRight/layers/00ff78dc-a78c-4e85-b617-15bb7d138ed2
+[13-01-2024 15:48:29] Checking 9a50f81e-0568-4380-a049-3193363ef250.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatUp
+[13-01-2024 15:48:29] Checking sCatUp.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatUp/sCatUp.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatUp/sCatUp.yy
+[13-01-2024 15:48:29] Par: "folders/Sprites" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatUp/sCatUp.yy"
+[13-01-2024 15:48:29] Found Sprite: sCatUp
+[13-01-2024 15:48:29] Checking layers
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatUp/layers
+[13-01-2024 15:48:29] Checking 8399b4ed-1d7c-49f3-93cb-a80be565decd.png
+[13-01-2024 15:48:29] Checking 80a18a9b-7132-49f3-bd01-600c18b9843c.png
+[13-01-2024 15:48:29] Checking 5c79ece5-b415-451e-9431-bdaa248bfc84.png
+[13-01-2024 15:48:29] Checking 54bd45b2-106f-431a-b774-660b041a77f2.png
+[13-01-2024 15:48:29] Checking 00ff78dc-a78c-4e85-b617-15bb7d138ed2.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatUp/layers
+[13-01-2024 15:48:29] Checking 8399b4ed-1d7c-49f3-93cb-a80be565decd
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatUp/layers/8399b4ed-1d7c-49f3-93cb-a80be565decd
+[13-01-2024 15:48:29] Checking 80a18a9b-7132-49f3-bd01-600c18b9843c
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatUp/layers/80a18a9b-7132-49f3-bd01-600c18b9843c
+[13-01-2024 15:48:29] Checking 5c79ece5-b415-451e-9431-bdaa248bfc84
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatUp/layers/5c79ece5-b415-451e-9431-bdaa248bfc84
+[13-01-2024 15:48:29] Checking 54bd45b2-106f-431a-b774-660b041a77f2
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatUp/layers/54bd45b2-106f-431a-b774-660b041a77f2
+[13-01-2024 15:48:29] Checking 00ff78dc-a78c-4e85-b617-15bb7d138ed2
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatUp/layers/00ff78dc-a78c-4e85-b617-15bb7d138ed2
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatUp/layers/00ff78dc-a78c-4e85-b617-15bb7d138ed2
+[13-01-2024 15:48:29] Checking 9a50f81e-0568-4380-a049-3193363ef250.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatUp/layers/54bd45b2-106f-431a-b774-660b041a77f2
+[13-01-2024 15:48:29] Checking 9a50f81e-0568-4380-a049-3193363ef250.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatUp/layers/5c79ece5-b415-451e-9431-bdaa248bfc84
+[13-01-2024 15:48:29] Checking 9a50f81e-0568-4380-a049-3193363ef250.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatUp/layers/80a18a9b-7132-49f3-bd01-600c18b9843c
+[13-01-2024 15:48:29] Checking 9a50f81e-0568-4380-a049-3193363ef250.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sCatUp/layers/8399b4ed-1d7c-49f3-93cb-a80be565decd
+[13-01-2024 15:48:29] Checking 9a50f81e-0568-4380-a049-3193363ef250.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sFly
+[13-01-2024 15:48:29] Checking sFly.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sFly/sFly.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sFly/sFly.yy
+[13-01-2024 15:48:29] Par: "folders/Sprites" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sFly/sFly.yy"
+[13-01-2024 15:48:29] Found Sprite: sFly
+[13-01-2024 15:48:29] Checking layers
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sFly/layers
+[13-01-2024 15:48:29] Checking f084c6d6-6dc0-44ff-96d0-f45c0cbaa0ca.png
+[13-01-2024 15:48:29] Checking a1d05fa7-9888-4792-9ca0-50349b9c6b95.png
+[13-01-2024 15:48:29] Checking 55002ae6-b40a-4c3d-a170-698fb3f295f8.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sFly/layers
+[13-01-2024 15:48:29] Checking f084c6d6-6dc0-44ff-96d0-f45c0cbaa0ca
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sFly/layers/f084c6d6-6dc0-44ff-96d0-f45c0cbaa0ca
+[13-01-2024 15:48:29] Checking a1d05fa7-9888-4792-9ca0-50349b9c6b95
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sFly/layers/a1d05fa7-9888-4792-9ca0-50349b9c6b95
+[13-01-2024 15:48:29] Checking 55002ae6-b40a-4c3d-a170-698fb3f295f8
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sFly/layers/55002ae6-b40a-4c3d-a170-698fb3f295f8
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sFly/layers/55002ae6-b40a-4c3d-a170-698fb3f295f8
+[13-01-2024 15:48:29] Checking fbcf0d65-16bd-4512-8633-c1db7401c000.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sFly/layers/a1d05fa7-9888-4792-9ca0-50349b9c6b95
+[13-01-2024 15:48:29] Checking fbcf0d65-16bd-4512-8633-c1db7401c000.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sFly/layers/f084c6d6-6dc0-44ff-96d0-f45c0cbaa0ca
+[13-01-2024 15:48:29] Checking fbcf0d65-16bd-4512-8633-c1db7401c000.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sPlater
+[13-01-2024 15:48:29] Checking sPlater.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sPlater/sPlater.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sPlater/sPlater.yy
+[13-01-2024 15:48:29] Par: "folders/Sprites" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sPlater/sPlater.yy"
+[13-01-2024 15:48:29] Found Sprite: sPlater
+[13-01-2024 15:48:29] Checking layers
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sPlater/layers
+[13-01-2024 15:48:29] Checking a72285ad-e69d-432a-9de1-bc8a629be6b2.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sPlater/layers
+[13-01-2024 15:48:29] Checking a72285ad-e69d-432a-9de1-bc8a629be6b2
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sPlater/layers/a72285ad-e69d-432a-9de1-bc8a629be6b2
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sPlater/layers/a72285ad-e69d-432a-9de1-bc8a629be6b2
+[13-01-2024 15:48:29] Checking 1f834b26-d9b0-4250-9b12-185988ea72e4.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sRat
+[13-01-2024 15:48:29] Checking sRat.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sRat/sRat.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sRat/sRat.yy
+[13-01-2024 15:48:29] Par: "folders/Sprites" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sRat/sRat.yy"
+[13-01-2024 15:48:29] Found Sprite: sRat
+[13-01-2024 15:48:29] Checking layers
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sRat/layers
+[13-01-2024 15:48:29] Checking f5eb984d-24df-4aa1-92b2-a78a4214514a.png
+[13-01-2024 15:48:29] Checking d95c4a7e-ff0c-4633-86ca-9ad92162d8e1.png
+[13-01-2024 15:48:29] Checking 320a710e-4105-4a55-b491-d0797c7e31ac.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sRat/layers
+[13-01-2024 15:48:29] Checking f5eb984d-24df-4aa1-92b2-a78a4214514a
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sRat/layers/f5eb984d-24df-4aa1-92b2-a78a4214514a
+[13-01-2024 15:48:29] Checking d95c4a7e-ff0c-4633-86ca-9ad92162d8e1
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sRat/layers/d95c4a7e-ff0c-4633-86ca-9ad92162d8e1
+[13-01-2024 15:48:29] Checking 320a710e-4105-4a55-b491-d0797c7e31ac
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sRat/layers/320a710e-4105-4a55-b491-d0797c7e31ac
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sRat/layers/320a710e-4105-4a55-b491-d0797c7e31ac
+[13-01-2024 15:48:29] Checking 2866fbe3-824d-4d94-9c8e-90e2a4541bae.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sRat/layers/d95c4a7e-ff0c-4633-86ca-9ad92162d8e1
+[13-01-2024 15:48:29] Checking 2866fbe3-824d-4d94-9c8e-90e2a4541bae.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sRat/layers/f5eb984d-24df-4aa1-92b2-a78a4214514a
+[13-01-2024 15:48:29] Checking 2866fbe3-824d-4d94-9c8e-90e2a4541bae.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sTileset
+[13-01-2024 15:48:29] Checking sTileset.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sTileset/sTileset.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sTileset/sTileset.yy
+[13-01-2024 15:48:29] Par: "folders/Sprites" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sTileset/sTileset.yy"
+[13-01-2024 15:48:29] Found Sprite: sTileset
+[13-01-2024 15:48:29] Checking layers
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sTileset/layers
+[13-01-2024 15:48:29] Checking 478b673b-b98a-492e-9e50-c8b144ec4dee.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sTileset/layers
+[13-01-2024 15:48:29] Checking 478b673b-b98a-492e-9e50-c8b144ec4dee
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sTileset/layers/478b673b-b98a-492e-9e50-c8b144ec4dee
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sTileset/layers/478b673b-b98a-492e-9e50-c8b144ec4dee
+[13-01-2024 15:48:29] Checking 13070d9c-ace4-42f5-b2cd-15817beb43df.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sUpgradeBlock
+[13-01-2024 15:48:29] Checking sUpgradeBlock.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sUpgradeBlock/sUpgradeBlock.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sUpgradeBlock/sUpgradeBlock.yy
+[13-01-2024 15:48:29] Par: "folders/Sprites" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sUpgradeBlock/sUpgradeBlock.yy"
+[13-01-2024 15:48:29] Found Sprite: sUpgradeBlock
+[13-01-2024 15:48:29] Checking layers
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sUpgradeBlock/layers
+[13-01-2024 15:48:29] Checking 9e21329a-d84f-476b-aac7-bbd9473af8f7.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sUpgradeBlock/layers
+[13-01-2024 15:48:29] Checking 9e21329a-d84f-476b-aac7-bbd9473af8f7
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sUpgradeBlock/layers/9e21329a-d84f-476b-aac7-bbd9473af8f7
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/sprites/sUpgradeBlock/layers/9e21329a-d84f-476b-aac7-bbd9473af8f7
+[13-01-2024 15:48:29] Checking c2d1da9b-f8be-4c8a-80f4-e8e4c32eebdd.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/tilesets
+[13-01-2024 15:48:29] Checking tsWorld
+[13-01-2024 15:48:29] Directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/tilesets/tsWorld
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/tilesets/tsWorld
+[13-01-2024 15:48:29] Checking tsWorld.yy
+[13-01-2024 15:48:29] Parsing C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/tilesets/tsWorld/tsWorld.yy
+[13-01-2024 15:48:29] Reading C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/tilesets/tsWorld/tsWorld.yy
+[13-01-2024 15:48:29] Par: "folders/Tile Sets" at dir: "C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/tilesets/tsWorld/tsWorld.yy"
+[13-01-2024 15:48:29] Found TileSet: tsWorld
+[13-01-2024 15:48:29] Checking output_tileset.png
+[13-01-2024 15:48:29] Current parent directory: C:/Users/david/Documents/GameMakerStudio2/dingojam2024/Dingo2024/timelines
+[13-01-2024 15:48:29] Moving files to trash...
+[13-01-2024 15:48:29] Files yeeted successfully!
+[13-01-2024 15:48:29] Generating YYP...
+[13-01-2024 15:48:29] Dingo2024.yyp created successfully!

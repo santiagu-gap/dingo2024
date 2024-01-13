@@ -43,8 +43,18 @@ centerY = y + centerYOffset
 aimDir = point_direction(x, centerY, mouse_x, mouse_y)
 
 face = round(aimDir/90)
+
 if face == 4 { face = 0; }
 
     //Setting the sprites
     image_index = 0 // to put in the animate option when actual sprites in
     sprite_index = sprite[face]
+	
+//Bullet shooting
+if mouse_check_button(mb_left) and attackCooldown<0{
+	direction = aimDir
+	shootBullet(items[itemSelect])
+	attackCooldown = atkSpd
+}else{
+	attackCooldown--
+}

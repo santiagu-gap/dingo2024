@@ -10,8 +10,8 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oEnemyBase","path":"objects/oEnemyBase/oEnemyBase.yy",},"propertyId":{"name":"bullets","path":"objects/oEnemyBase/oEnemyBase.yy",},"value":"[1]",},
   ],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Enemy",
+    "path": "folders/Objects/Enemy.yy",
   },
   "parentObjectId": {
     "name": "oEnemyBase",

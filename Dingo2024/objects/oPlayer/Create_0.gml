@@ -19,6 +19,11 @@ ySpd = 0
 dashSpd = 0
 stamina = 300
 
+itemSelect = 0
+items = [2]
+upgrades = []
+attackCooldown = 0
+
 //Sprite control
 centerYOffset = -5
 centerY = 0
