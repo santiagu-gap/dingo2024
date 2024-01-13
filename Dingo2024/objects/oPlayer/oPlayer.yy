@@ -40,9 +40,12 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "sPlater",
-    "path": "sprites/sPlater/sPlater.yy",
+    "name": "sCatDown",
+    "path": "sprites/sCatDown/sCatDown.yy",
   },
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "sCatUp",
+    "path": "sprites/sCatUp/sCatUp.yy",
+  },
   "visible": true,
 }
