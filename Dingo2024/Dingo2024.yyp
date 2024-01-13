@@ -9,7 +9,7 @@
     "children": [],
     "name": "Default",
   },
-  "defaultScriptType": 0,
+  "defaultScriptType": 1,
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
@@ -35,10 +35,13 @@
   },
   "resources": [
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"cat","path":"sprites/cat/cat.yy",},},
+    {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
+    {"id":{"name":"sPlater","path":"sprites/sPlater/sPlater.yy",},},
+    {"id":{"name":"rmMainMap","path":"rooms/rmMainMap/rmMainMap.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rmMainMap","path":"rooms/rmMainMap/rmMainMap.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
