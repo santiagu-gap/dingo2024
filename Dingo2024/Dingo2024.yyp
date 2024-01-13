@@ -43,10 +43,10 @@
     {"id":{"name":"fnGame","path":"fonts/fnGame/fnGame.yy",},},
     {"id":{"name":"oUpgradeblock","path":"objects/oUpgradeblock/oUpgradeblock.yy",},},
     {"id":{"name":"sBullet","path":"sprites/sBullet/sBullet.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"rmMainMap","path":"rooms/rmMainMap/rmMainMap.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rmMainMap","path":"rooms/rmMainMap/rmMainMap.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
