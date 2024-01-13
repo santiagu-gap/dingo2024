@@ -34,8 +34,12 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},},
     {"id":{"name":"itemFile","path":"scripts/itemFile/itemFile.yy",},},
     {"id":{"name":"upgradeFile","path":"scripts/upgradeFile/upgradeFile.yy",},},
+    {"id":{"name":"sUpgradeBlock","path":"sprites/sUpgradeBlock/sUpgradeBlock.yy",},},
+    {"id":{"name":"oUpgradeblock","path":"objects/oUpgradeblock/oUpgradeblock.yy",},},
+    {"id":{"name":"sBullet","path":"sprites/sBullet/sBullet.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

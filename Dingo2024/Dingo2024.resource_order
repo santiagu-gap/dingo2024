@@ -18,5 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"itemFile","order":1,"path":"scripts/itemFile/itemFile.yy",},
+    {"name":"sUpgradeBlock","order":1,"path":"sprites/sUpgradeBlock/sUpgradeBlock.yy",},
+    {"name":"oUpgradeblock","order":1,"path":"objects/oUpgradeblock/oUpgradeblock.yy",},
   ],
 }
