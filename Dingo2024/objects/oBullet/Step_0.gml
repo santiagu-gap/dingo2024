@@ -6,6 +6,11 @@ if (type==eBType.NOR){
 	speed = clamp(speed, 0, spd)
 }else{
 	direction += spd
-	x = obj.x + lengthdir_x(angleOff, direction)
-	y = obj.y + lengthdir_y(angleOff, direction)
+	x = caller.x + lengthdir_x(angleOff, direction)
+	y = caller.y + lengthdir_y(angleOff, direction)
+}
+
+if place_meeting(x, y, obj){
+	obj.hp-=dmg
+	instance_destroy()
 }

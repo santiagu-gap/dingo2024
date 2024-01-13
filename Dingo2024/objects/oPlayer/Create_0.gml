@@ -18,3 +18,16 @@ xSpd = 0
 ySpd = 0
 dashSpd = 0
 stamina = 300
+
+//Sprite control
+centerYOffset = -5
+centerY = 0
+face = 3
+aimDir = 0
+
+sprite[0] = sCatRight
+sprite[1] = sCatUp
+sprite[2] = sCatLeft
+sprite[3] = sCatDown
+
+sprite_index = sprite[face]
