@@ -38,6 +38,7 @@
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"bullets","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"[0]","varType":4,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"aggroDistance","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"500","varType":0,},
     {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"contDmg","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":0,},
+    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"dmgBonus","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":0,},
   ],
   "solid": false,
   "spriteId": {

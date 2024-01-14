@@ -1,9 +1,9 @@
 if point_distance(x, y, oPlayer.x, oPlayer.y) <= aggroDistance and !state {
 	state = 1
 	for(var i = 0; i < array_length(bullets); i++){
-		alarm[i] = global.itemType[ bullets[i] ].cooldown
+		alarm[i] = global.itemType[ bullets[i] ].cooldown*0.1
 	}
 }
 if hp < 0 {instance_destroy()}
 
-if place_meeting(x, y, target) {target.hp -= contDmg}
+if place_meeting(x, y, target) {target.hp -= contDmg/20}

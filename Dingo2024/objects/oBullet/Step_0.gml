@@ -12,13 +12,18 @@ if (type==eBType.NOR){
 	y = caller.y + lengthdir_y(angleOff, direction)
 }
 
-if place_meeting(x, y, obj){
+if place_meeting(x, y, obj) or distance_to_object(obj)<3{
 	if (target==oPlayer){
-		if target.dashSpd<2{
+		if target.dashSpd<=6{
 			obj.hp-=dmg
 		}
 	}else{
 		obj.hp-=dmg
+	}
+	for (var i = 0; i < 10; ++i) {
+		direction = 360*(i/10)
+	    instance_create_depth(x, y, 0, oEffect, 
+		{speed: 0.4, direction, gravity_direction: direction+random_range(-2, 2), gravity: -0.005})
 	}
 	instance_destroy()
 }

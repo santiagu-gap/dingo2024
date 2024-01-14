@@ -45,17 +45,24 @@ aimDir = point_direction(x, centerY, mouse_x, mouse_y)
 face = round(aimDir/90)
 
 if face == 4 { face = 0; }
-
-    //Setting the sprites
-if _spd==0 {  image_index = 0 }// to put in the animate option when actual spritess in
-sprite_index = sprite[face]
 	
 //Bullet shooting
-if mouse_check_button(mb_left) and attackCooldown<0{
+if mouse_check_button(mb_left) and attackCooldown<0 and !invToggle{
 	direction = aimDir
 	shootBullet(items[itemSelect], oEnemyBase, dmg)
 	attackCooldown = atkSpd
 	show_debug_message(attackCooldown)
 }else{
 	attackCooldown--
+}
+
+hp = clamp(hp, -10, hpMax)
+if hp<0{
+	x = xprevious
+	y = yprevious
+	sprite_index = sDeath
+}else{
+	    //Setting the sprites
+	if _spd==0 {  image_index = 0 }// to put in the animate option when actual spritess in
+	sprite_index = sprite[face]
 }

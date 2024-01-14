@@ -1,1 +1,1 @@
-draw_text_transformed(640 - 8, 30, level, 3, 3, 0)
+draw_text_transformed(640 - 8, 30, floor(level*100), 3, 3, 0)

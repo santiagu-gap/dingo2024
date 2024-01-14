@@ -1,4 +1,4 @@
-draw_healthbar(10, 8, 210, 30, (hp/hpMax) * 100, c_black, c_red, c_red, 0, false,true)
+draw_healthbar(10, 8, 220, 30, (hp/hpMax) * 100, c_black, c_red, c_red, 0, false,true)
 draw_text_transformed(12, 8, hp, 2, 2, 0)
 
 for (var i = 0; i < array_length(items); i++){
@@ -32,4 +32,13 @@ if invToggle{
 	draw_text_transformed(1100, 480, string_concat("hpMax: ", hpMax), 2, 2, 0)
 	draw_text_transformed(1100, 500, string_concat("staminaMax: ", staminaMax), 2, 2, 0)
 	draw_text_transformed(1100, 520, string_concat("spd: ", spd), 2, 2, 0)
+	
+	for (var i = 0; i < instance_number(oEnemyBase); ++i) {
+	    with instance_find(oEnemyBase, i){
+			state = 0
+			alarm[0] = -1
+			alarm[1] = -1
+			alarm[2] = -1
+		}
+	}
 }

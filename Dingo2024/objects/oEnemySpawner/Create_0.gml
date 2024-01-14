@@ -1,4 +1,4 @@
-enemyList = [oRat]
+enemyList = [oRat, oFly]
 
 sp = {
 	x1: 64, x2: 640-64, y1: 64, y2: 360-64
@@ -18,10 +18,13 @@ spawner = function(){
 	
 		var enemy = enemyList[irandom(array_length(enemyList)-1)]
 		var it = instance_create_depth(nx, ny, 0, enemy)
-		it.spd *= level*random_range(0.25, 0.5)
+		it.spd *= choose( level*random_range(0.025, 0.25), 1+(level/30))
 		it.hp *= level*random_range(0.25, 0.5)
+		it.dmgBpnus = level*random_range(0, 0.5)
 		it.aggoDistance = sqr(logn(level+2, 2))*12
 	}
 }
 
 alarm[0] = 60
+
+audio_play_sound(sndSHUTTIGHT, 0, true, 0.7)
