@@ -21,7 +21,7 @@ global.itemType = [
 	name: "Magic Fire", spd: 1.5, dmg: 5, amnt: 3, angleStart: -1, angleOff: 0, angleRange: 60,
 	img: sOrangeOrb, type: eBType.HOMING, ele: eElement.NOR, life: 120, cooldown: 150
 },{
-	name: "Normalcy", spd: 2, dmg: 3, amnt: 1, angleStart: -1, angleOff: 0, angleRange: 0,
+	name: "Normalcy", spd: 3, dmg: 3, amnt: 1, angleStart: -1, angleOff: 0, angleRange: 0,
 	img: sBlueOrb, type: eBType.NOR, ele: eElement.NOR, life: 120, cooldown: 120
 },
 {
