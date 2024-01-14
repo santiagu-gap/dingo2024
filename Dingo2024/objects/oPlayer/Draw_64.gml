@@ -3,7 +3,7 @@ draw_text_transformed(12, 8, hp, 2, 2, 0)
 
 for (var i = 0; i < array_length(items); i++){
 	var itm = items[i]
-	draw_sprite(itm.img, 0, 250 + (i * 25) + 2, 12)
+	draw_sprite_ext(itm.img, 0, 250 + (i * 25) + 14, 26, 2, 2, 0, c_white, 1)
 }
 draw_text(240, 50, items[itemSelect].name)
 draw_line_width(250 + (itemSelect * 25), 40, 275 + (itemSelect * 25), 40, 3)

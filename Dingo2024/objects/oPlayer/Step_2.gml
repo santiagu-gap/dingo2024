@@ -24,9 +24,6 @@ if keyboard_check_pressed(vk_tab){
 			
 			array_push(upgrades, tmpData)
 		}
-		show_message({
-			atkSpd, dashDist
-		})
 		instance_destroy(oUpgradeOrder)
 		instance_destroy(oUpgradeblock)
 	}
