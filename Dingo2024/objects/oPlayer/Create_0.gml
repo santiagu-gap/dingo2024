@@ -22,7 +22,7 @@ dashSpd = 0
 stamina = 300
 
 itemSelect = 0
-items = [2]
+items = [ global.itemType[2] ]
 upgrades = []
 attackCooldown = 0
 

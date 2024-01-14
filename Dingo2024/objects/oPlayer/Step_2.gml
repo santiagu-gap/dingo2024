@@ -29,3 +29,10 @@ if keyboard_check_pressed(vk_tab){
 		instance_destroy(oUpgradeblock)
 	}
 }
+
+if keyboard_check_pressed(ord("F")){
+	itemSelect++
+	if itemSelect>=array_length(items){
+		itemSelect = 0
+	}
+}

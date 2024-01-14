@@ -1,3 +1,6 @@
+tx = x
+ty = y
+
 target = oPlayer
 
 bulletindex = 0

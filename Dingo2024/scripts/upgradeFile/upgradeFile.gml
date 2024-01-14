@@ -19,22 +19,87 @@ global.upgrade = [
 	name: "fairy toothpaste", img : sBullet,
 	mods: [
 		{
-			stat: "atkSpd", operation: eMod.MUL, value: 1.2
+			stat: "atkSpd", operation: eMod.MUL, value: 0.8
 		},
 		{
 			stat: "dmg", operation: eMod.SUB, value: 2
 		}
 	]
 },{
-	name: "hearty prowess", img : sBullet,
-	mods: [
-		{
-			stat: "hpMax", operation: eMod.ADD, value: 50
-		},
-		{
-			stat: "stamina", operation: eMod.SUB, value: 5
-		}
-	]
+    name: "hearty prowess", img : sBullet,
+    mods: [
+        {
+            stat: "hpMax", operation: eMod.ADD, value: 50
+        },
+        {
+            stat: "staminaMax", operation: eMod.SUB, value: 5
+        }
+    ]
+},{
+    name: "Good night's rest ", img : sBullet,
+    mods: [
+        {
+            stat: "staminaMax", operation: eMod.ADD, value: 200
+        },
+        {
+            stat: "atkSpd", operation: eMod.ADD, value: 5
+        }
+    ]
+},{
+    name: "5 hour energy", img : sBullet,
+    mods: [
+        {
+            stat: "spd", operation: eMod.MUL, value: 1.20
+        },
+        {
+            stat: "dashDist", operation: eMod.ADD, value: 3
+        },
+        {
+            stat: "hpMax", operation: eMod.SUB, value: 15
+        }
+    ]
+},{
+    name: "Rage", img : sBullet,
+    mods: [
+        {
+            stat: "dmg", operation: eMod.ADD, value: 5
+        },
+        {
+            stat: "spd", operation: eMod.MUL, value: 0.9
+        }
+    ]
+},{
+    name: "Paranoia", img : sBullet,
+    mods: [
+        {
+            stat: "atkSpd", operation: eMod.MUL, value: 0.8
+        },
+        {
+            stat: "dashDist", operation: eMod.SUB, value: 5
+        }
+    ]
+},{
+    name: "D20 (good luck buddy)", img : sBullet,
+    mods: [
+        {
+            stat: "hpMax", operation: eMod.MUL, value: random_range(0.6 , 1.4)
+        },
+        {
+            stat: "spd", operation: eMod.MUL, value: random_range(0.6 , 1.4)
+        },
+        {
+            stat: "dmg", operation: eMod.MUL, value: random_range(0.6 , 1.4)
+        },
+        {
+            stat: "atkSpd", operation: eMod.MUL, value: random_range(0.6 , 1.4)
+        },
+        {
+            stat: "staminaMax", operation: eMod.MUL, value: random_range(0.6 , 1.4)
+        },
+        {
+            stat: "dashDist", operation: eMod.MUL, value: random_range(0.6 , 1.4)
+        }
+    ]
 }
 ]
 

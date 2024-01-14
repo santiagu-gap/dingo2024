@@ -1,4 +1,37 @@
-draw_text_transformed_color(13, 9, hp, 2, 2, 0, c_white, c_white, c_white, c_white, 1)
-draw_text_transformed_color(11, 7, hp, 2, 2, 0, c_white, c_white, c_white, c_white, 1)
-draw_healthbar(10, 8, 110, 30, (hp/hpMax) * 100, c_black, c_red, c_red, 0, false,true)
-draw_text_transformed_color(12, 8, hp, 2, 2, 0, c_black, c_black, c_black, c_black, 1)
+draw_healthbar(10, 8, 210, 30, (hp/hpMax) * 100, c_black, c_red, c_red, 0, false,true)
+draw_text_transformed(12, 8, hp, 2, 2, 0)
+
+for (var i = 0; i < array_length(items); i++){
+	var itm = items[i]
+	draw_sprite(itm.img, 0, 250 + (i * 25) + 2, 12)
+}
+draw_text(240, 50, items[itemSelect].name)
+draw_line_width(250 + (itemSelect * 25), 40, 275 + (itemSelect * 25), 40, 3)
+
+if invToggle{
+	var tmpList = oUpgradeOrder.list
+	upgrades = []
+	struct_foreach(baseStat, function(key, value){
+		variable_instance_set(oPlayer.id, key, value)
+	})
+	for(var i = 1; i < array_length(tmpList); i++){
+		var tmpData = tmpList[i].data
+		var tmod = tmpData.mods[0]
+		applyMod(tmod.stat, tmod.operation, tmod.value)
+		if array_length(tmpData.mods)==2{
+			tmod = tmpData.mods[1]
+			applyMod(tmod.stat, tmod.operation, tmod.value)
+		}
+		array_push(upgrades, tmpData)
+	}
+	draw_set_color(c_black)
+	draw_rectangle(1090, 410, 1300, 570, false)
+	draw_set_color(c_white)
+	draw_rectangle(1090, 410, 1300, 570, true)
+	draw_text_transformed(1100, 420, string_concat("dmg: ", dmg), 2, 2, 0)
+	draw_text_transformed(1100, 440, string_concat("atkSpd: ", atkSpd), 2, 2, 0)
+	draw_text_transformed(1100, 460, string_concat("dashDist: ", dashDist), 2, 2, 0)
+	draw_text_transformed(1100, 480, string_concat("hpMax: ", hpMax), 2, 2, 0)
+	draw_text_transformed(1100, 500, string_concat("staminaMax: ", staminaMax), 2, 2, 0)
+	draw_text_transformed(1100, 520, string_concat("spd: ", spd), 2, 2, 0)
+}

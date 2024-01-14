@@ -18,7 +18,7 @@ downKey = keyboard_check(ord("S"))
     }else{
         dashSpd += (0-dashSpd)/10
         stamina = clamp(stamina+1, 0, staminaMax)
-		if dashSpd>=1{
+		if dashSpd>2{
 			effect_create_below(ef_smoke, x, y, 0, c_white)
 		}
     }
@@ -27,7 +27,7 @@ downKey = keyboard_check(ord("S"))
     var _spd = 0
     var _inputLevel = point_distance(0, 0, _horizKey, _vertKey)
     _inputLevel = clamp(_inputLevel, 0 , 1)
-    _spd = (spd+dashSpd) * _inputLevel //here also modifiers for the speed
+    _spd = (spd+dashSpd) * _inputLevel * (!invToggle) //here also modifiers for the speed
 
     xSpd = lengthdir_x(_spd, moveDir)
     ySpd = lengthdir_y(_spd, moveDir)
@@ -53,7 +53,7 @@ sprite_index = sprite[face]
 //Bullet shooting
 if mouse_check_button(mb_left) and attackCooldown<0{
 	direction = aimDir
-	shootBullet(items[itemSelect])
+	shootBullet(items[itemSelect], oEnemyBase, dmg)
 	attackCooldown = atkSpd
 }else{
 	attackCooldown--
