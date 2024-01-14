@@ -1,4 +1,5 @@
 draw_self()
+draw_sprite(data.img, 0, bbox_left-2, y)
 draw_text(x+2, y+1, data.name)
 for(var i = 0; i < array_length(data.mods); i++){
 	var md = data.mods[i]

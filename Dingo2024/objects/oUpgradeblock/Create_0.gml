@@ -1,2 +1,4 @@
-data = global.upgrade[index]
+data = oPlayer.upgrades[index]
 
+px = x
+py = y

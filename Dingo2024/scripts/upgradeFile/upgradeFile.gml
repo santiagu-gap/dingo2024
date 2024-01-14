@@ -41,7 +41,7 @@ global.upgrade = [
 function applyMod(statName, type, amnt){
 	var currentStat = variable_instance_get(oPlayer, statName)
 	var newStat = op(type, currentStat, amnt)
-	variable_instance_set(oPlayer, statName, amnt)
+	variable_instance_set(oPlayer.id, statName, newStat)
 	return newStat
 }
 

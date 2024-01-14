@@ -13,6 +13,8 @@ leftKey = keyboard_check(ord("A"))
 upKey = keyboard_check(ord("W"))
 downKey = keyboard_check(ord("S"))
 
+invToggle = 0
+
 moveDir = 0
 xSpd = 0
 ySpd = 0
