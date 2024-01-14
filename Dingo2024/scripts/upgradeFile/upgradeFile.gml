@@ -16,7 +16,7 @@ function makeUpgrade(name, mods){
 
 global.upgrade = [
 {
-	name: "fairy toothpaste", img : sBullet,
+	name: "fairy toothpaste", img : sFairyU,
 	mods: [
 		{
 			stat: "atkSpd", operation: eMod.MUL, value: 0.8
@@ -26,27 +26,27 @@ global.upgrade = [
 		}
 	]
 },{
-    name: "hearty prowess", img : sBullet,
+    name: "hearty prowess", img : sHeartyU,
     mods: [
         {
             stat: "hpMax", operation: eMod.ADD, value: 50
         },
         {
-            stat: "staminaMax", operation: eMod.SUB, value: 5
+            stat: "staminaMax", operation: eMod.SUB, value: 25
         }
     ]
 },{
-    name: "Good night's rest ", img : sBullet,
+    name: "Good night's rest ", img : sRestU,
     mods: [
         {
-            stat: "staminaMax", operation: eMod.ADD, value: 200
+            stat: "staminaMax", operation: eMod.ADD, value: 120
         },
         {
             stat: "atkSpd", operation: eMod.ADD, value: 5
         }
     ]
 },{
-    name: "5 hour energy", img : sBullet,
+    name: "5 hour energy", img : sEnergyU,
     mods: [
         {
             stat: "spd", operation: eMod.MUL, value: 1.20
@@ -59,7 +59,7 @@ global.upgrade = [
         }
     ]
 },{
-    name: "Rage", img : sBullet,
+    name: "Rage", img : sRageU,
     mods: [
         {
             stat: "dmg", operation: eMod.ADD, value: 5
@@ -69,7 +69,7 @@ global.upgrade = [
         }
     ]
 },{
-    name: "Paranoia", img : sBullet,
+    name: "Paranoia", img : sParanoiaU,
     mods: [
         {
             stat: "atkSpd", operation: eMod.MUL, value: 0.8
@@ -79,7 +79,7 @@ global.upgrade = [
         }
     ]
 },{
-    name: "D20 (good luck buddy)", img : sBullet,
+    name: "D20 (good luck buddy)", img : sD20U,
     mods: [
         {
             stat: "hpMax", operation: eMod.MUL, value: random_range(0.6 , 1.4)

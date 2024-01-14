@@ -16,10 +16,8 @@ if invToggle{
 	})
 	for(var i = 1; i < array_length(tmpList); i++){
 		var tmpData = tmpList[i].data
-		var tmod = tmpData.mods[0]
-		applyMod(tmod.stat, tmod.operation, tmod.value)
-		if array_length(tmpData.mods)==2{
-			tmod = tmpData.mods[1]
+		for (var j = 0; j < array_length(tmpData.mods); ++j) {
+			var tmod = tmpData.mods[j]
 			applyMod(tmod.stat, tmod.operation, tmod.value)
 		}
 		array_push(upgrades, tmpData)

@@ -1,22 +1,22 @@
 data = variable_clone(global.upgrade[baseindex], 128)
 if data.name=="D20 (good luck buddy)"{
 	data = {
-	    name: "D20 (good luck buddy)", img : sBullet,
+	    name: "D20 (good luck buddy)", img : sD20U,
 	    mods: [
 	        {
-	            stat: "hpMax", operation: eMod.MUL, value: random_range(0.6 , 1.4)
+	            stat: "hpMax", operation: eMod.MUL, value: random_range(0.5 , 1.5)
 	        },
 	        {
-	            stat: "spd", operation: eMod.MUL, value: random_range(0.6 , 1.4)
+	            stat: "spd", operation: eMod.MUL, value: random_range(0.6 , 2)
 	        },
 	        {
-	            stat: "dmg", operation: eMod.MUL, value: random_range(0.6 , 1.4)
+	            stat: "dmg", operation: eMod.MUL, value: random_range(0.6 , 3)
 	        },
 	        {
-	            stat: "atkSpd", operation: eMod.MUL, value: random_range(0.6 , 1.4)
+	            stat: "atkSpd", operation: eMod.MUL, value: random_range(0.12 , 1.2)
 	        },
 	        {
-	            stat: "staminaMax", operation: eMod.MUL, value: random_range(0.6 , 1.4)
+	            stat: "staminaMax", operation: eMod.MUL, value: random_range(0.5 , 2)
 	        },
 	        {
 	            stat: "dashDist", operation: eMod.MUL, value: random_range(0.6 , 1.4)
@@ -77,3 +77,5 @@ for (var i = 0; i < array_length(data.mods); ++i) {
 }
 
 }
+
+sprite_index = data.img

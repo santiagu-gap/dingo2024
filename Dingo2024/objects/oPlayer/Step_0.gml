@@ -55,6 +55,7 @@ if mouse_check_button(mb_left) and attackCooldown<0{
 	direction = aimDir
 	shootBullet(items[itemSelect], oEnemyBase, dmg)
 	attackCooldown = atkSpd
+	show_debug_message(attackCooldown)
 }else{
 	attackCooldown--
 }
